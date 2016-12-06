@@ -18,19 +18,21 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-#toto is back ou pas !
 [toto.com](http://www.toto.com)
 ![toto.jpg](toto.jpg)
-hey !
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+{% highlight php %}
+<?php
+$toto = "toto";
+if ($toto != null)
+{
+  echo $toto;
 }
-```
+?>
+{% endhighlight %}
+
+
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
