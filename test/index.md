@@ -18,3 +18,5 @@ Toto toto = new Toto("toto");
 ## fushigi !! *chan*
 
 ## hey voila !
+
+## fushigi de wa nai ?
